@@ -20,7 +20,7 @@ export default function EndingCredits() {
             {/* ── 배경 GIF ── */}
             <div className="sticky top-0 h-screen">
                 <img
-                    src="/gif.gif"
+                    src="gif.gif"
                     alt="Cinematic silhouettes"
                     className="absolute inset-0 w-full h-full object-cover"
                 />

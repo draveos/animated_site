@@ -22,7 +22,7 @@ export default function BgmToggle() {
         <>
             <audio
                 ref={audioRef}
-                src="../../public/bgm/ruins_theme.mp3"
+                src="/ruins_theme.mp3"
                 loop
                 preload="auto"
                 className="hidden"
