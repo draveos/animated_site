@@ -96,7 +96,7 @@ export default function RuinsFinale() {
                     className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2
                      text-[#FFFDFD] text-[20vw] leading-none select-none z-30"
                 >
-                    Arise
+                    RUINS
                 </motion.h1>
 
                 {/* 🪶 깃털 */}
